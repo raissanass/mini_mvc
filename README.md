@@ -5,7 +5,7 @@
 * Mettre à jour le menu
 
 ## A faire: 
-### Gérer une page à porpos
+### Gérer une page à propos
 * Créer un nouveau fichier templates/page/about.php avec header, footer and a h1 about
 * Adapter le PageController.php pour gérer cette page
 ##  Gérer une page listant tous les articles (stockés en bdd)
